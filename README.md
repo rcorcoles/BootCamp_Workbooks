@@ -4,12 +4,13 @@ This is my summary.
 
 ---
 
+![Image Description](/Week 1/Excel_Graph.png)
+
 ## Week 1 – Excel
 
 | | Description |
 |-|-|
-|  ![Test](Week 1/Excel_Graph.png) | Add your accompanying text for the image here. You can describe what the image shows or expand on the Week 1 content. |
-| [![Week 1 Excel Image](Week 1/Excel_Graph.png)](Week 1/Excel_Graph.png)
+| <img src="Week 1/Excel_Graph.png" width="300"/> | Add your accompanying text for the image here. You can describe what the image shows or expand on the Week 2 content. |
 
 ## Week 2 – Power BI and Tableau
 
