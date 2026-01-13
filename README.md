@@ -15,8 +15,7 @@ This is my summary.
 
 | | Description |
 |-|-|
-| <img src="Week 2/Power_BI.png" width="300"/> | Add your accompanying text for the image here. You can describe what the image shows or expand on the Week 2 content. |
-| <img src="Week 2/Tableau.png" width="300"/> | Add your accompanying text for the image here. You can describe what the image shows or expand on the Week 2 content. |
+| <img src="Week 2/Power_BI.png" width="300"/> <img src="Week 2/Tableau.png" width="300"/> | Week 2 focused on **Power BI and Tableau** for data analysis and visualization. The week included a comparison of **Tableau versions**, highlighting key features, connectivity options, capabilities, and differences between free and paid editions.<br><br>Hands-on exercises in Tableau included generating a **UK-based map** to visualize locations affected by job changes, producing multiple visualizations from a **Spotify dataset** to gain insights, and analyzing **health data** to explore relationships between metrics such as BMI and cholesterol and their impact on life expectancy. Additionally, **Power BI Desktop** was used to complete three labs from the **PL-300 certification**, reinforcing skills in data modeling, visualization, and dashboard creation. |
 
 ## Week 3 – SQL
 
