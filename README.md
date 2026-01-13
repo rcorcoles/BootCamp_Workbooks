@@ -6,17 +6,15 @@ This is my summary.
 
 ## Week 1 – Excel
 
-This is a summary of Week 1.
+|||
+|------|-------------|
+| <img src="Week 1/Excel_Graph.png" alt="Week 1 Excel Image" width="300"/> | Add your accompanying text for the image here. You can describe what the image shows or expand on the Week 1 content. |
 
-<!-- Image + Text Section -->
-<div style="display: flex; align-items: center; gap: 20px;">
+## Week 2 – Power BI and Tableau
 
-<img src="Week 1/Excel_Graph.png" alt="Week 1 Excel Image" width="300"/>
+|||
+|------|-------------|
+| <img src="Week 2/Power_BI.png" alt="Week 2 PowerBI Image" width="300"/> | Add your accompanying text for the image here. You can describe what the image shows or expand on the Week 1 content. |
+| <img src="Week 2/Tableau.png" alt="Week 1 Tableau Image" width="300"/> | Add your accompanying text for the image here. You can describe what the image shows or expand on the Week 1 content. |
 
-<div>
-Add your accompanying text for the image here.  
-You can describe what the image shows or expand on the Week 1 content.
-</div>
-
-</div>
 
