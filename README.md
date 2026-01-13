@@ -4,13 +4,12 @@ This is my summary.
 
 ---
 
-![Image Description](/Week 1/Excel_Graph.png)
 
 ## Week 1 – Excel
 
 | | Description |
 |-|-|
-| <img src="Week 1/Excel_Graph.png" width="300"/> | Add your accompanying text for the image here. You can describe what the image shows or expand on the Week 2 content. |
+| <img src="Week 1/Excel_Graph.png" width="300"/> | Add your accompanying text for the image here. You can describe what the image shows or expand on the Week 1 content. |
 
 ## Week 2 – Power BI and Tableau
 
@@ -29,5 +28,12 @@ This is my summary.
 
 | | Description |
 |-|-|
-| <img src="Week 5/Azure.png" width="300"/> | Add your accompanying text for the image here. You can describe what the image shows or expand on the Week 3 content. |
+| <img src="Week 5/Azure.png" width="300"/> | Add your accompanying text for the image here. You can describe what the image shows or expand on the Week 5 content. |
+
+## Week 6 – Python
+
+| | Description |
+|-|-|
+| <img src="Week 6/Python.png" width="300"/> | Add your accompanying text for the image here. You can describe what the image shows or expand on the Week 6 content. |
+
 
