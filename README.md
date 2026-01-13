@@ -21,7 +21,7 @@ This is my summary.
 
 | | Description |
 |-|-|
-| <img src="Week 3/SQL.png" width="300"/> | Add your accompanying text for the image here. You can describe what the image shows or expand on the Week 3 content. |
+| <img src="Week 3/SQL.png" width="300"/> | Week 3 focused on **SQL Server and database concepts**. The week began with an overview of databases, covering key features such as **primary keys, foreign keys, indexes, and relationships**. Differences between **relational and non-relational databases** were explored, including structured, unstructured, and semi-structured data, along with the benefits of each type.<br><br>Hands-on activities included writing **SQL queries** to extract data from sample datasets using various **joins** (inner, outer, full). Groups also prepared a **500-word essay** detailing how a small retail shop could design a database for products, suppliers, and customer information, along with a **small ERD** to highlight key relationships and SQL implementation. Finally, a set of **20 queries** was completed using the **world_db** database, demonstrating a range of SQL syntax, conditions, and data filtering techniques. |
 
 ## Week 5 – Azure
 
