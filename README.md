@@ -4,7 +4,6 @@ This is my summary.
 
 ---
 
-
 ## Week 1 – Excel
 
 | | Description |
