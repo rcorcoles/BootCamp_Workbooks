@@ -32,6 +32,6 @@ This is my summary.
 
 | | Description |
 |-|-|
-| <img src="Week 6/Python.png" width="300"/> | Add your accompanying text for the image here. You can describe what the image shows or expand on the Week 6 content. |
+| <img src="Week 6/Python.png" width="300"/> | Week 6 focused on **Python programming and data analysis**. The week began with an introduction to **Python**, covering basic language features and syntax. The **pandas library** was explored to create dataframes, manipulate columns, filter and slice data, and produce various outputs.<br><br>Further exercises involved **grouping data** and writing code to create **calculated columns**, exporting datasets to files, and visualizing the results. Additionally, the **NumPy** and **Matplotlib** libraries were used to produce more advanced visualizations, including various **bar charts** to represent data effectively. |
 
 
