@@ -1,6 +1,17 @@
-# Summary
+# Data Technician Bootcamp
 
-This is my summary.
+**Duration:** 8 weeks  
+
+An 8-week **Data Technician Bootcamp** covering various aspects of **Data Analytics**, including tools and insights into all aspects of the data environment.  
+
+**Project Focus:** This project highlights the **6 weeks dedicated to technical skills**, including:  
+
+- Data collection, cleaning, and transformation  
+- Data analysis and visualization  
+- Working with databases and spreadsheets  
+- Programming for data (Python, SQL, etc.)  
+- Generating actionable insights from data
+
 
 ---
 
